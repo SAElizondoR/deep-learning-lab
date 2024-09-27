@@ -162,4 +162,12 @@ cython_debug/
 #.idea/
 
 # Charts
-*.png
+grafica*.png
+
+# LaTex
+*.aux
+*.out
+*.pdf
+*.bbl
+*.blg
+*.synctex.gz
