@@ -171,3 +171,6 @@ grafica*.png
 *.bbl
 *.blg
 *.synctex.gz
+
+# Databases
+*.csv
