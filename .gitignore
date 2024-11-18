@@ -178,3 +178,7 @@ grafica*.png
 
 # Models
 */models/*
+
+# Files
+*.mp4
+*.jpg
